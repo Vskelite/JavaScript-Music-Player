@@ -259,8 +259,6 @@ audio.addEventListener("ended", () => {
     } else {
       userData.currentSong = null;
       userData.songCurrentTime = 0;  
-
-
     }
 });
 
